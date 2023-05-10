@@ -1,0 +1,19 @@
+activity splash.xml should be in the layout sub folder found in the res folder
+anim fade in .xml should be in the anim sub folder found in the res folder(if you dont have that folder you can create yours)
+
+splash activity.java should be in the java folder.
+
+modify your android manifest.xml file with this code
+
+<activity
+    android:name=".SplashActivity"
+    android:theme="@style/AppTheme.NoActionBar">
+    <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+
+        <category android:name="android.intent.category.LAUNCHER" />
+    </intent-filter>
+</activity>
+
+
+i assume that you have prior knowledge on how the files are supposed to be structed in the project

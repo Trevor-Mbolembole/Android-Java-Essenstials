@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="slide1_background">@drawable/slide1_image</drawable>
+    <drawable name="slide2_background">@drawable/slide2_image</drawable>
+    <drawable name="slide3_background">@drawable/slide3_image</drawable>
+</resources>
