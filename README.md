@@ -14,7 +14,7 @@ the android essenstials includes
 
 ✅dashboard
 
-the essenstials may lack some clarity and explaination for that you can contact me for help on telegram  https://t.me/LowKeytrey
+the essenstials may lack some clarity and explaination for that you can contact me for help on telegram  https://t.me/TrevorMbolembole
 
 more improvements to the repo will made
 
